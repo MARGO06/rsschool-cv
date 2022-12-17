@@ -1,12 +1,10 @@
 * {
   box-sizing: border-box;
 }
-ul,li{
-  list-style: none;
-}
+
 img {
-  height: 300px;
-  width: 320px;
+  height: 320px;
+  width: 350px;
   padding: 10px;
 }
 body{
@@ -20,12 +18,14 @@ body{
   display: flex;
 }
 .name{
-  text-align: right;
+  
+  padding: 100px;
 }
 .nav-list{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    list-style: none;
   }
   ul,li,a{
     text-decoration: none;
@@ -34,12 +34,14 @@ body{
   display: flex;
  }
  .cont{
-  width: 370px;
+  width: 350px;
+  background-color:rgba(99, 115, 101, 1);
  }
 .cont-footer{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color:rgba(99, 115, 101, 1);
 }
 .git{
   width: 60px;
@@ -48,4 +50,40 @@ body{
 .RS{
   height: 70px;
   width: 140px;
+}
+h1,h2,p,li{
+  font-family:'Open Sans';
+}
+h2{
+  font-size: 24px;
+  font-weight: 700;
+}
+p,li{
+  font-size: 16px;
+  font-weight: 400;
+}
+.info{
+  width: 1100px;
+}
+li{
+  line-height: 30px;
+}
+code{
+  font-size: 16px;
+  font-weight: 400;
+}
+.educ{
+  font-size: 16px;
+  font-weight: 700;
+}
+h1{
+  font-size: 28px;
+  font-weight: 700; 
+}
+.profi{
+  font-size: 28px;
+  font-weight: 400;
+}
+header{
+  background-color:rgba(99, 115, 101, 1);
 }
