@@ -8,3 +8,8 @@
 * creating personas;
 * building informational architecture;
 * english level A2.
+## **Education:**
+* **JS-FE Pre-School 2022Q4 (JavaScript)**
+* **Alchemy of Design**
+* **UX Mind School**
+* **Belarusian State Transport University**
