@@ -13,3 +13,8 @@
 * **Alchemy of Design**
 * **UX Mind School**
 * **Belarusian State Transport University**
+## **Work Experience:**
+* **December 2019-presents time-** Group of companies “Sodruzhestvo” **Railway traffic supervisor**
+* **May 2018-December 2019-**  Minsk Branch of Belarusian Railway **Railway traffic supervisor**
+* **June 2012-May 2018-** Minsk Branch of Belarusian Railway **Kolyaditchy station operator**
+* **April 2011-June 2012-** Vitebsk Branch of Belarusian Railway **Bogushevskay station operator**
